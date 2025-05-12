@@ -1,0 +1,128 @@
+Introduction to Cloud Computing
+ How a Website Works
+ Features of Cloud Computing
+ Cloud Computing Networking
+ Cloud Computing Storage
+ Cloud Computing Service Models
+ IAAS
+ PAAS
+ SAAS
+ What is Public Cloud
+ Private Cloud & its Features
+ Hybrid Cloud & its Feature
+ Community Cloud & its Features
+ Cloud Architecture
+ Cloud Computing Providers
+ Introduction to AWS
+ AWS Services Part 1
+ AWS Service Part 2
+ AWS Services Part 3
+ AWS Free Tier
+ Create an AWS account - Part 1
+ Create an AWS account - Part 2
+ AWS Availability Zones & Regions
+ EC2 Introduction
+ EC2 Operating Systems
+ Amazon Machine Image (AMI)
+ EC2 Instance Types
+ EC2 Keys
+ EC2 Security Group
+ EC2 Storage
+ Create an EC2 Instance - Part 1
+ Create an EC2 Instance - Part 2
+ Create an EC2 Instance - Part 3
+ Create an EC2 Instance - Part 4
+ Introduction to S3 Bucket
+ S3 Classes
+ AWS S3 Objects and Permissions
+ How to Create S3 Bucket - Part 1
+ How to Create S3 Bucket - Part 2
+ How to Create S3 Bucket - Part 3
+ How to Host a Static Website S3 - Part 1
+ How to Host a Static Website S3 - Part 2
+ How to Host a Static Website S3 - Part 3
+ IAM Introduction
+ Authentication and Authorization in IAM
+ Access Key and Secret Access Key & MFA
+ How to Create IAM - Part 1
+ How to Create IAM - Part 2
+ How to Create IAM - Part 3
+ How to Create IAM - Part 4
+ How to Create IAM - Part 5
+ How to Create IAM - Part 6
+ How to Create IAM - Part 7
+ Introduction to VPC
+ What is an IP Address
+ Internet Gateway
+ Route Tables
+ Elastic IP
+ NAT Gateway
+ Amazon VPC Demo - Part 1
+ Amazon VPC Demo - Part 2
+ Amazon VPC Demo - Part 3
+ Amazon VPC Demo - Part 4
+ Amazon VPC Demo - Part 5
+ Amazon VPC Demo - Part 6
+ DNS
+ Route 53 Introduction
+ Routing Policies
+ Hosted Zone
+ Record and HealthCheck in Route 53
+ Amazon Route 53 - Part 1
+ Amazon Route 53 Part 2
+ Elastic Block Store Introduction
+ Volumes In Elastic Block Store
+ Snapshots In Aws
+ Elastic Block Store Demo - Part 1
+ Elastic Block Store Demo - Part 2
+ Elastic Block Store Demo - Part 3
+ Introduction to Rds
+ Subnet Groups
+ Databases
+ Relational Databases Demo - Part 1
+ Relational Databases Demo - Part 2
+ Relational Databases Demo - Part 3
+ Relational Databases Demo - Part 4
+ Cloud Front Introduction
+ Cloud Front Locations
+ S3 Static WebHosting Demo - Part 1
+ S3 Static WebHosting Demo - Part 2
+ CloudFront Connect to S3 Bucket Demo
+ Introduction to SNS
+ Introduction to SQS
+ Introduction to Cloud Watch
+ Introduction to Cloud Watch Monitoring
+ Introduction to Cloud Watch Alarms
+ SNS Demo
+ SQS Demo - Part 1
+ SQS Demo - Part 2
+ CloudWatch Demo - Part 1
+ CloudWatch - Demo Part 2
+ Introduction to EFS
+ Elastic File System Demo - Part 1
+ Elastic File System Demo - Part 2
+ Elastic File System Demo - Part 3
+ Elastic Load Balancer
+ Classic Load Balancer
+ Target Groups
+ Application Load Balancer
+ Rules in Application Load Balancer
+ Network Load Balancer
+ Elastic Load Balancer Demo - Part 1
+ Elastic Load Balancer Demo - Part 2
+ Elastic Load Balancer Demo - Part 3
+ Elastic Load Balancer Demo - Part 4
+ Elastic Load Balancer Demo - Part 5
+ Elastic Load Balancer Demo - Part 6
+ Introduction to Auto Scaling
+ Lanch Templates
+ Auto Scaling Demo - Part 1
+ Auto Scaling Demo - Part 2
+ Auto Scaling Demo - Part 3
+ Auto Scaling Demo -Part 4
+ Introduction to Aws Workspaces
+ Introduction to Aws Workspaces Directory
+ Aws WorkSpaces Demo - Part 1
+ Aws WorkSpaces Demo - Part 2
+ Aws WorkSpaces Demo - Part 3
+

@@ -1,0 +1,28 @@
+ Create a Website On Your Own
+ ( Nmap ) Website Monitoring Project
+ Network Monitoring Project [Wireshark]
+ Network Enumeration Project [Nmap]
+ [Bettercap] - Network Packet Monitoring
+ Putty Networking
+ Single Lan with One Router - Cisco Packet
+ Two Lan with One Router - Cisco Packet
+ DHCP Server Configuration - Cisco Packet
+ RIP - Routing Information Protocol - Cisco Packet
+ OSPF - Cisco Packet
+ ACL - Cisco Packet            EC2 Demo
+ S3 Demo
+ IAM Demo
+ VPC - Virtual Private Cloud
+ ELastic Block Store - EBS
+ RDS - Relational Database System
+ Route 53
+ Cloud Front
+ SNS, SQS & CloudWatch
+ Elastic File System - EFS
+ ELastic Load Balancer - ELB
+ Autoscaling
+ Workspace               Website Vulnerability Testing using Zap
+ Gobuster Subdomain Enumeration
+ Nikto Vulnerability Scanning
+ Nmap Website Monitoring
+ Interview Questions Cyber Security    

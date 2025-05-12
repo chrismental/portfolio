@@ -1,0 +1,321 @@
+List Of Networking Interview Questions
+HR INTERVIEW QUESTIONS
+---------------------------------------
+
+1.Tell me about yourself
+2.Tell me about your company
+3.Roles and responsibilities in ur company
+4.Your Company address
+5.Your Project Manager and Your Project lead
+6.Your project members in your last project
+7.Your stipend/salary details
+8.Send your offer letter
+9.Show me your project in live
+10.What's your customer name and location
+
+TECHNICAL INTERVIEW QUESTIONS
+---------------------------------------------------
+11    Networking Interview Questions Sessions
+12    Networking Interview Questions Session - 2
+13    Networking Interview Questions Video
+14    Interview Questions Networking
+15    How do I check my internet connectivity?
+16    How is an IP address setup?
+17    What is Networking?
+18    What is LAN ?
+19    What is Protocol?
+20    What is the firewall?
+21    What is a subnet?
+22    What is the SMTP Protocol?
+23    What are nodes and links?
+24    How are Network types classified?
+25    What is VPN?
+26    What are the Different types of Network topologies?
+27    What are the 7 different layers of the OSI Reference Model?
+28    what are the 4 different layers of the TCP/IP Reference Model
+29    Compare TCP & UDP
+30    What is a proxy server?
+31    Explain the purpose of ARP
+32    What is the purpose of DHCP?
+33    Define NAT
+34    Explain the concept of a DMZ
+35    Define BGP
+36    What is QoS (Quality of Service)?
+37    Define a loopback address
+38    What is a broadcast storm?
+39    Explain the purpose of a gateway in networking?
+40    Define a loopback address?
+41    What is the Purpose of a MAC Table in a Switch?
+42    What is the Role of a Default Gateway?
+43    Define OSPF (Open Shortest Path First)
+44    Explain the Purpose of RIP?
+45    What is the Purpose of the Spanning Tree Protocol (STP)?
+46    What is the default gateway role?
+47    Define OSPF (Open Shortest Path First)?
+48    Explain the purpose of RIP (Routing Information Protocol)?
+49    Explain the purpose of Routing Information Protocol (RIP)?
+50    What is the purpose of the STP (spanning tree protocol)?
+51    Define VLAN trunking?
+52    Explain the concept of VRRP (Virtual Router Redundancy Protocol)?
+53    What is the purpose of HSRP (Hot Standby Router Protocol)?
+54    Define subnet mask and wildcard mask?
+55    Explain the concept of port security on a switch?
+56    What is BGP route aggregation?
+57    Define the term "routing table."?
+58    Explain the purpose of ARP spoofing?
+59    What is the purpose of the subnet mask in IP addressing?
+60    What is the purpose of a static route in networking?
+61    Define the term "multicast" in networking?
+62    What is the purpose of the network address translation (NAT) table?
+63    Explain the purpose of NetFlow in network monitoring?
+64    What is the significance of ping and traceroute in network troubleshooting?
+65    How can you identify network bottlenecks?
+66    How do you use packet sniffers like Wireshark for network analysis?
+67    Importance of Network Monitoring and Its Key Benefits?
+68    How to Measure Network Bandwidth?
+69    Detecting and Troubleshooting Network Congestion Using Monitoring Tools?
+70    Fundamental Difference Between Wired and Wireless Networks?
+71    Purpose of a MAC Address in Wireless Networking?
+72    Discuss the potential security risks associated with public Wi-Fi networks and how users can protect themselves?
+73    How does Bluetooth differ from Wi-Fi in terms of application and functionality?
+74    Can you explain the importance of network design in the overall IT infrastructure of an organization?
+75    How would you design a secure and efficient wireless network within an organization?
+76    Explain the concept of subnetting and its significance in IP address management?
+77    How do you prioritize and implement security measures in a network design?
+78    What factors do you consider when determining the network topology for an organization?
+79    Explain the concept of VLANs (Virtual Local Area Networks) and their role in network design?
+80    How do you approach the design of a wireless network, and what factors are crucial in ensuring its performance and security?
+81    What role does reliability play in network design, and how can it be achieved?
+82    How do you approach disaster recovery planning in the context of network design?
+83    How do you approach the design of a secure network architecture, and what security measures would you implement?
+84    What is DNS?
+85    What are the different types of networks?
+86    What are the different types of IP?
+87    What is an IP address and its version?
+88    Private IP Address and its range?
+89    What is a Switch?
+90    What is a Router?
+91    What is a Hub?
+92    What is Encapsulation and Decapsulation?
+93    What is Encryption and Decryption?
+94    What is NIC?
+95    What is FTP and its Port Number?
+96    What is HTTP and HTTPS and their Port Numbers?
+97    What is SSH and its Port Number?
+98    What is CIDR?
+99    What is Subnetting?
+100    What is ICMP?
+101    What is a Peer-to-Peer Network?
+102    Describe Ethernet and its Types?
+103    What is the Difference Between 2.4 GHz and 5 GHz ?
+104    What is the Purpose of Using Copper Straight-Through Cable and Explain its Color Code?
+105    What is the Purpose of Using Copper Crossover Cable and Explain its Color Code?
+106    What is a Managed Switch ?
+107    What is an Unmanaged Switch?
+108    What is the Purpose of Using a Serial Cable?
+109    What is the Purpose of Using a Console Cable?
+110    Explain About Crimping Devices ?
+Lisi Of Cloud Computing Interview Questions
+HR INTERVIEW QUESTIONS
+---------------------------------------
+
+1.Tell me about yourself
+2.Tell me about your company
+3.Roles and responsibilities in ur company
+4.Your Company address
+5.Your Project Manager and Your Project lead
+6.Your project members in your last project
+7.Your stipend/salary details
+8.Send your offer letter
+9.Show me your project in live
+10.What's your customer name and location
+
+TECHNICAL INTERVIEW QUESTIONS
+---------------------------------------------------
+11    Cloud Computing Interview Sessions
+12    What is cloud computing?
+13    What are the three main service models in cloud computing?
+14    What is the difference between public, private, and hybrid clouds?
+15    What is virtualization in cloud computing?
+16    What is the difference between elasticity and scalability in cloud computing?
+17    What are the key components of a cloud architecture?
+18    What is serverless computing, and how does it work?
+19    What is Microservices?
+20    What are Cloud Storage Levels?
+21    How does Resource Replication take place in Cloud Computing?
+22    What are the advantages of cloud computing?
+23    Explain about virtualization
+24    How does cloud computing enable scalability?
+25    Explain the concept of multi-tenancy in cloud computing.
+26    What are some security concerns associated with cloud computing?
+27    How do you ensure data privacy in the cloud?
+28    What is a cloud service provider (CSP)?
+29    List some popular cloud service providers and their offerings.
+30    What is AWS?
+31    What is Google Cloud Platform (GCP), and what services does it offer?
+32    Explain the concept of serverless computing?
+33    What are containers, and how do they differ from virtual machines?
+34    What is Kubernetes, and how is it used in container orchestration?
+35    How does cloud computing support disaster recovery?
+36    Describe the process of data migration to the cloud?
+37    What is an API (Application Programming Interface), and how is it used in cloud computing?
+38    How do you monitor performance and resource utilization in the cloud?
+39    Explain the difference between horizontal and vertical scaling?
+40    What is auto-scaling, and how does it work in cloud environments?
+41    How does cloud computing facilitate collaboration among remote teams?
+42    What is DevOps, and how does it relate to cloud computing?
+43    Describe the concept of Infrastructure as Code (IaC)?
+44    What is a cloud-native application?
+45    How does cloud computing support continuous integration and continuous deployment (CI/CD)?
+46    What is the difference between cloud storage and traditional storage systems?
+47    Explain the concept of object storage?
+48    What is the CAP theorem, and how does it relate to distributed systems?
+49    How does data encryption work in cloud storage?
+50    Describe the different types of cloud storage options?
+51    What is a Content Delivery Network (CDN), and why is it used in cloud computing?
+52    How does cloud computing support big data analytics?
+53    Explain concept of serverless computing?
+54    How does cloud computing enable high availability and fault tolerance?
+55    Describe the concept of edge computing?
+56    What is the role of load balancing in cloud computing?
+57    How do you ensure regulatory compliance in the cloud?
+58    What is the Shared Responsibility Model in cloud security?
+59    Explain the concept of identity and access management (IAM) in cloud computing?       List Of Cybersecurity Interview Questions
+HR INTERVIEW QUESTIONS
+---------------------------------------
+1.Tell me about yourself
+2.Tell me about your company
+3.Roles and responsibilities in ur company
+4.Your Company address
+5.Your Project Manager and Your Project lead
+6.Your project members in your last project
+7.Your stipend/salary details
+8.Send your offer letter
+9.Show me your project in live
+10.What's your customer name and location
+
+TECHNICAL INTERVIEW QUESTIONS
+---------------------------------------------------
+11    What is honeypots?
+12    Vulnerability Assessment & Penetration Testing
+13    What is Brute force attack?
+14    What is Phishing?
+15    What is VPN & VLAN?
+16    Which is more reliable SSL / HTTPS?
+17    What is Network Sniffing?
+18    Difference between HIDS and NIDS?
+19    What is Phishing?
+20    What is ARP poisoning?
+21    Cookie might be used in a spyware attack?
+22    What is encryption & decryption ?
+23    What is DNS Attack?
+24    What is End to End Encryption?
+25    What is the CIA triad in cybersecurity?
+26    Explain about symmetric & asymmetric encryption.
+27    Explain the concept of zero trust in cybersecurity.
+28    How does a VPN enhance security for remote workers?
+29    Describe the role of antivirus software in cybersecurity.
+30    What is multi-factor authentication (MFA)?
+31    How Does Biometric Authentication Enhance Security?
+32    What is the Role of a Certificate Authority (CA) in SSL?
+33    Explain the Principle of Defense in Depth?
+34    What is the Significance of NIST Cybersecurity Frameworks?
+35    How Does DNSSEC Improve Security in the Domain Name System?
+36    Define Tokenization and Its Role in Data Protection?
+37    Explain the difference between white-box and black-box testing?
+38    What is the concept of a security token in authentication?
+39    Describe the importance of security awareness training?
+40    How does a proxy server enhance security in a network?
+41    Explain the concept of a digital signature?
+42    What is the role of a security policy in an organization?
+43    How does a sandbox contribute to malware analysis?
+44    Define SQL injection and how to prevent it?
+45    What is the concept of "least privilege" in access control?
+46    Explain the concept of threat modelling?
+47    How does a virtual private cloud enhance security?
+48    Describe the principles of secure coding practices?
+49    What is the role of encryption in data at rest and in transit?
+50    How can you secure mobile devices in an enterprise environment?
+51    Explain the concept of a security token in authentication?
+52    What is the difference between a vulnerability and an exploit?
+53    Describe the importance of log analysis in cybersecurity?
+54    How does a security certificate validate a website's identity?
+55    What is the role of a security awareness program?
+56    Explain the concept of a security baseline?
+57    How does security differ in cloud computing compared to traditional networks?
+58    What is the role of biometrics in access control?
+59    Explain the concept of a security audit? 
+
+
+
+ Python interview questions with answers in one line
+ What is Class & Object in Python ?
+ What is Class in Python?
+ What is Object in Python?
+ What is Python?
+ What is Python OOPS?
+ What is Python interpreter?
+ What is Constructor in Python?
+ What is Functions in Python?
+ What is Keywords in Python?
+ What is Polymorphism in Python?
+ What is Compile Time Polymorphism in Python?
+ What is Run Time Polymorphism in Python?
+ What is Function Overloading in Python?
+ What is Operator Overloading in Python?
+ What is Config File in Python?
+ What is Escape Sequence in Python?
+ What is Properties in Python?
+ Write a Factorial Number. Program in Python
+ What is SQL Server Authentication Mode?
+ What is MVVM model?
+ Explain about try-catch exception?
+ Define Abstraction vs inheritance?
+ Define Encapsulation and it's uses?
+ Define Joins its types and it's uses?
+ Write a program in Python using delegate to display the number in triangular form?
+ Define String and string builder?
+ Explain about Exception handling in Python?
+ Define Primary key?
+ Define Foreign key?
+ Define Unique key?
+ What is Check constraints in SQL?
+ Define Parameterized Constructor?
+ Explain about Random Number in Python?
+ Print maximum element in array in Python
+ Define View in database?
+ Write a program in Python in Reverse a String.
+ Explain about Arrays in Python?
+ Write a Program Sum of Two Numbers using Methods in Python
+ Explain about Multiple Inheritance in Python?
+ Write a program in Python to Convert Number into Characters.
+ Write a program in Python to Print a Number Triangle.
+ Write a program in Python to Print Alphabet Triangle.
+ Write a program in Python in Decimal to Binary.
+ Write a program in Python in Sum of Digits.
+ Write a program in Python in Factorial Number.
+ Write a program in Python in Prime number.
+ Write a program in Python in Fibonacci Numbers.
+ Write a program in Python in Palindrome.
+ Write a program in Python in Reverse a Number.
+ What is break, continue, and pass in Python?
+ What is the use of self in Python?
+ What is lambda in Python? Why is it used?
+ What does *args and **kwargs mean?
+ What is a zip function?
+ What is __init__() in Python?
+ Differentiate Between append() and extend()?
+ Difference Between sort() and sorted()?
+ What is Typecasting?
+ What are Conditional Statements?
+ What is a Docstring? Why do we use it?
+ What is Variable Scope and its Types?
+ What is a Recursive Function?
+ What is the input() Function?
+ What is the map() Function?
+ What is Slicing in Python?
+ What is a Dictionary in Python?
+ What is the Usage of the enumerate() Function in Python?
+ What is List and Dictionary Comprehension in Python?
+ What are Formatted Statements?
+

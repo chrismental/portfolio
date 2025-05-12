@@ -1,0 +1,171 @@
+first i will give the syllabus okay     Networking Syllabus
+Syllabus to be Covered in Networking Course
+Introduction to Networking
+Networking Introduction - Hub - Switch - Router - What is Internet - What is a Network - What is IP address - IP Address Classes - IP address types (Public static dynamic private) - South Public and Private IP addresses - What is MAC address - How they will find an hacker - How to set IP address to a machine - Conditioning For IP address - How many IP address does a computer have - Multiple interview questions
+
+Types of Networks
+Local Area Network - Wide Area Network - Metropolitan Area Network - Concept of Routers and Bridges - Web server concepts - Concept of DNS and DHCP - How DNS works - How DHCP works - Interview questions
+
+OSI Model and TCP Model
+Protocols - 7 Layers of OSI model - Application layer - Presentation layer -
+Session layer - Transport layer - Network layer - Data link layer - Physical layer - Difference between OSI and TCP protocol - Encapsulation and Decapsulation - interview questions
+
+Subnetting Concepts
+Subnetting concept - Class A subnetting - Class B subnetting - Class C subnetting - Understanding depth in subnetting - interview questions
+
+Cisco Labs
+Computer IP Configuration - Router Configuration - One LAN Configuration with One Router - Two LAN Configuration with One Router - DHCP Server Configuration - VLAN Configuration - Real-Time Laptop IP Changing - Real-Time Troubleshooting - Real-Time Drive Updates - Real-Time How to Check Full Laptop - RIP - Routing Information Protocol - OSPF - Open Shortest Path First - NAT - Network Address Translation - ACL - Network Access Control List
+
+Network Security Concepts
+VPN Concepts - Firewall and IDS/IPS - Proxy Servers    
+
+                     Cloud Computing Syllabus
+Syllabus to be covered in Cloud Computing Course
+Cloud Computing Introduction 
+Client Side History – Server Side History – Why cloud computing – Why Cloud computing in IOT – Cloud Computing Types – Advantages and Disadvantages of Cloud Computing – Cloud Computing Uses – Cloud Computing Tech wise History – Cloud Computing Introduction , Advantages and Disadvantages of Cloud Computing , History of Cloud Computing , Web hosting Vs Cloud Hosting 
+
+History of the Cloud Computing
+Why the word Cloud Computing – What’s there in the Cloud – Cloud Computing vs Cost – Cloud Computing Types – Cloud Computing Benefits – Cloud Computing Classification – Private Cloud vs Public Cloud – What is Private Cloud – What is Public Cloud – What is Hybrid Cloud – Cloud in the real time world – PAAS vs IAAS vs SAAS – On-premise Infrastructure vs Infrastructure as a service – Top Cloud providers – AWS Intro – What is Web Service ? – How Web Service works ? – Real time web service examples – Web services Vs REST API  – AWS Services Intro – How to create account and access account in cloud server 
+
+AWS 
+AWS Overview – Why AWS – AWS Services – Storage based services – Static Website Hosting based services – Dynamic Website Hosting based services – Relational databases – NoSQL Databases – Network Creation based services – AWS Resource manage services 
+
+AWS Storage & CDN Services
+AWS Storage and CDN – Aws S3 bucket – Elastic Block Store – Amazon cloud front – AWS Glacier – AWS Storage Gateway – AWS Import Export 
+
+Networking Services
+Auto Scaling – Elastic Load Balancing – Amazon WorkSpace – Amazon virtual private cloud (amazon vpc) – AWS Route 53  – Amazon Direct Connect – Computation Services –  AWS EC2 
+
+AWS Database
+What is NoSQL Database – What is JSON – Dynamodb – AWS Nosql Database – AWS ElastiCache – What is Relational Database – AWS RDS – Amazon Redshift – Amazon Snowball / Amazon Migration services – rds proxy – Rds Mirroring and replication 
+
+AWS Appservices
+AWS cloudSearch – aws Elastic Transcoder – Amazon email sending services – AWS SES – AWS SNS – Push notification services – AWS SQS – Message Queue Service – AWS SWF – Workflow Service – AWS AppStream
+
+AWS Deployment and Management
+AWS CloudFormation – AWS CloudWatch – AWS Elastic Beanstalk – AWS IAM – AWS CloudTrail – AWS OpsWorks – AWS CloudHSM
+
+
+
+  Cyber Security Syllabus
+Syllabus to be covered in Cyber Security Course
+Cyber Security Introduction
+How Client Server Works - Client Server Model - Client Files and Server Files - How Files are placed - Skills for Cyber Security Engineers - Role of Cyber Security Professionals - Role of Ethical Hackers - Concept of Testing Professionals - Penetration Testing - Practical Implementation of Website Cloning - Concept of types of Hackers - Process followed by Ethical Hackers- Introduction to Cyber Security and Ethical Hacking
+
+Malware Introduction
+How an Internet World Will Be - Malware and it Types - How Malwares Spreads - Malware Properties - Interview Questions
+
+Malwares Types and Attacks
+Adware - Browser Hijack Adware - Adware Concepts and Types - Spyware and Backdoor Concepts - False Notification in Cyber Security - What is HTTPS - Website Blacklist Check - How Google Works with Email Spams - Trojans Concepts - Boot Records - Data Structure of OS  - Boot Record Corruption - Boot Kits - Protecting Your Computer
+
+Hands on Kali Linux
+Introduction to Kali Linux - Dos Attack Concepts - DDos Attack Concepts - DDos Attack Practicals On Websites - Precaution on DDos
+
+Encryption and Decryption
+Encryption and Decryption - What is Encryption and Decryption - SSL Encryption Concepts - Encryption Workflow - Cracking Encrypted Passwords - Brute Force Attacks and Hashing Attacks – Steganography - Tor Encryption - What is Tor - How Tor Works - Why Tor Can't be traced
+
+Social Engineering
+Social Engineering - Social Engineering Process Life Cycle - Social Engineering Attacks (Credentials , Camera , Audio) - Dumpster Diving – Tailgating -Spoofing Attacks ( IP Spoofing , Mac Spoofing , Email Spoofing )
+
+Wireless Pentesting
+Wireless Network Pentest Concepts - Wireless Penetration Testing - Pre-Connection Attack ( Deauthentication Attack) - Gaining Access To Secured Wifi Networks - Post-Connection Attack ( Man in the Middle Attack )
+
+Enumerations and Pentesting Live Servers
+Server Hacking - Server Complete Concepts - Vulernability Assessment and Penetration  Testing - Getting Started with Nmap - Enumerating Servers - Snmp Enumeration - Scanning Concepts (Port Scanning And OS Scanning) - DNS Footprinting - Footpriniting through Websites - Pentesting Windows Servers - Bruteforcing FTP Servers - Bruteforcing on Logins - Prevention on Bruteforce Attacks
+
+Database Hacking
+Database Hacking - SQL Injection Practices - Website Hacking (Cross Site Scripting) - Proxy Servers and VPN Concepts
+
+Website Hacking (Cross Site Scripting)
+HTML Injections - DOM Based XSS - Reflected XSS - Stored XSS - Securing XSS
+
+Metasploit Framework
+Getting Started with Metasploit Framework - Metasploit Modules - Hijacking Windows Machine (Backdoor Creation) - Hijacking Android Devices (Backdoor Creation) - File Upload Vulnerability ( Backdoor Creation For Server Takeover ) - Burp Suite Usages and Concepts
+
+Firewalls And IDS/IPS
+Firewall and IDS - Firewall Functions - IDS Functions  
+
+
+
+Python Introduction
+ 2.Python Features
+ 3.Python Applications
+ 4.Python Install
+ 5.Python Jupyter install
+ 6.Python Variables
+ TASK -01
+ 7.Python Data Types
+ 8.Python Keywords
+ 9.Python Operators
+ TASK -02
+ TASK -03
+ 10.Python Comments
+ 11.Python input() Function
+ TASK -04
+ 12.Python String
+ 13.Python List
+ TASK - 05
+ 14.Python List/Array Methods
+ 15.Python Tuples
+ 16.Python List Vs Tuple
+ 17.Python Set
+ TASK -06
+ 18.Python Dictionary
+ PYTHON LIVE CLASS VIDEO - 1
+ PYTHON LIVE CLASS VIDEO - 2
+ PYTHON LIVE CLASS VIDEO - 3
+ 19.Python Slicing and Stepping
+ 20.Python formatted outputs
+ TASK -07
+ 21.Python Type casting
+ 22.Python If-else
+ TASK - 08
+ 23.Python for loop
+ TASK -09
+ TASK -10
+ 24.Python While Loops
+ 25.Python break
+ 26.Python pass Statement
+ 27.Python continue Statement
+ TASK -11
+ 28.Python List Comprehension
+ TASK -12
+ 29.Python Functions
+ 30.Python Built-in Functions
+ 31.Python Lambda Functions
+ 32.Python File Handling
+ 33.Python Modules
+ 34.Python Exceptions
+ 35.Python Datetime
+ 36.Python Regex
+ 37.Python Assert
+ 38.Python Math Module
+ 39.Python Random module
+ 40.Python Decorator
+ 41.Python map(),zip(),filter()
+ 42.Python OOPs Concepts
+ 43.Classes and Objects in Python
+ 44.Python Constructor
+ 45.Python Generators
+ 46.Python Encapsulaion
+ 47.Abstraction in Python
+ 48.python access specifiers
+ 49.Python Inheritance
+ 50.Types of inheritance
+ 51.Polymorphism in python
+ 52.Method overloading
+ 53.Method overriding
+ 54.operator overloading
+ Introduction to Python Videos
+ Variables in Python and Simple Operations Video
+ Python Strings Video
+ Python Operators Video
+ Python Split and Templates Video
+ Python Functions Video
+ Python Matrix Video
+ Python Advanced Oops Video
+ Medicine Management System - Tkinter GUI Project
+ Student Performance Project
+ What is Python
+ What is High Level Language ?
+ Why Python is called a Interpreter Language
