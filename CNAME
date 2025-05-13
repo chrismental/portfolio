@@ -1,3 +1,7 @@
-# This file is for custom domain configuration
-# Replace this content with your custom domain when ready
+# Custom Domain Configuration
+# To use a custom domain with GitHub Pages:
+# 1. Replace this entire file content with just your domain name
+# 2. No comments, no extra lines - just the domain
 # Example: portfolio.example.com
+# 
+# Then configure your domain's DNS settings as per GitHub's instructions
